@@ -1,0 +1,5 @@
+{
+    "buildCommand": "cd valentines-main && npm run build",
+    "outputDirectory": "valentines-main/.next",
+    "installCommand": "cd valentines-main && npm install"
+}
